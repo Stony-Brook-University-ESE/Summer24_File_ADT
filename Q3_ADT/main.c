@@ -1,9 +1,1 @@
-#include<stdio.h>
-#include<stdio.h>
-
-int main(){
-//write your code here
-  return 0;
-
-}
-
+//write your code
